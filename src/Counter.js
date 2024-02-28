@@ -11,6 +11,8 @@ function Counter() {
     <div>
       <h2>Counter: {count}</h2>
       <button onClick={increment}>Increment</button>
+      <h1>jcb added</h1>
+      
       
       
       <></>
