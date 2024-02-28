@@ -11,6 +11,7 @@ function Counter() {
     <div>
       <h2>Counter: {count}</h2>
       <button onClick={increment}>Increment</button>
+      <h2>spear parts are added</h2>
       
       
       <></>
