@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 
+
 function Counter() {
   const [count, setCount] = useState(0);
 
@@ -12,6 +13,8 @@ function Counter() {
       <h2>Counter: {count}</h2>
       <button onClick={increment}>Increment</button>
       <h2>spear parts are added</h2>
+      <h1>jcb added</h1>
+      
       
       
       <></>

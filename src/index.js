@@ -3,11 +3,12 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import Counter from './Counter';
 import reportWebVitals from './reportWebVitals';
+import Hel from './Hel';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <Counter />
+    <Hel/>
   </React.StrictMode>
 );
 
